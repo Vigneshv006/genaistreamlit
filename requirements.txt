@@ -15,6 +15,7 @@ google-cloud-storage==2.18.2
 google-crc32c==1.6.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.66.0
+greenlet==3.1.1
 idna==3.10
 Jinja2==3.1.4
 jsonschema==4.23.0
@@ -45,6 +46,7 @@ rpds-py==0.21.0
 rsa==4.9
 six==1.16.0
 smmap==5.0.1
+SQLAlchemy==2.0.36
 streamlit==1.40.1
 tenacity==9.0.0
 toml==0.10.2
